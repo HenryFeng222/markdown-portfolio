@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have been working in the financial industry for several years and also learned some programming languages, such as _Python_, _Java_. 
