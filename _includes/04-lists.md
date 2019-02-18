@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My favorite games:
+* The Elder Scrolls: Skyrim
+* Fallout: New Vegas
+* Grand Theft Auto
+* Yakuza 0
